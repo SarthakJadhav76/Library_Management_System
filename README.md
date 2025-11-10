@@ -128,7 +128,7 @@ Use SQL queries to analyze records — from most issued books to top active memb
 ---
 
 ## Project Results  
-[Click here to get full code](https://github.com/yourusername/banking_system_database/blob/main/banking_database_code.sql)
+[Click here to get full code](https://github.com/SarthakJadhav76/Library_Management_System/blob/main/library_database.sql)
 
 ---
 
