@@ -1,4 +1,4 @@
-<img src="https://github.com/vaishu-08/college_management_database/blob/main/image/My_sql.jpg" alt="mysql_img" width="300"/> 
+<img src="https://github.com/SarthakJadhav76/Library_Management_System/blob/main/images/library_er_diagram.png" alt="mysql_img" width="500"/> 
 
 
 # Library Management System Database
