@@ -119,7 +119,7 @@ Use SQL queries to analyze records — from most issued books to top active memb
 
 ## ER Diagram
 
-<img src="image/library_er_diagram.png" alt="er_diagram" width="500"/>  
+<img src="images/library_er_diagram.png" alt="er_diagram" width="500"/>  
 
 ---
 
