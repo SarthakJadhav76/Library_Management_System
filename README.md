@@ -1,4 +1,5 @@
-<img src="https://github.com/SarthakJadhav76/Library_Management_System/blob/main/images/library_er_diagram.png" alt="mysql_img" width="500"/> 
+<img src="https://github.com/SarthakJadhav76/Library_Management_System/blob/main/images/intro.png" alt="mysql_img" width="500"/> 
+
 
 
 # Library Management System Database
@@ -44,7 +45,7 @@ Use SQL queries to analyze records — from most issued books to top active memb
 
 ## Tools & Technologies Used
 
-<img src="https://github.com/vaishu-08/college_management_database/blob/main/image/My_sql.jpg" alt="mysql_img" width="300"/>  
+<img src="https://github.com/SarthakJadhav76/Library_Management_System/blob/main/images/My_sql.jpg" alt="mysql_img" width="300"/>  
 
 **MySQL** – Database Management System
 
